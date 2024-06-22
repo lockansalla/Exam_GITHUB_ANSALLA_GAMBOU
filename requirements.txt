@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+tensorflow
+scikit-learn
+jupyter
+opencv-python
+huggingface_hub
